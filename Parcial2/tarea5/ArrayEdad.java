@@ -1,5 +1,4 @@
 package Parcial2.tarea5;
-
 public class ArrayEdad {
 
     public static void main(String arg[]) {
@@ -18,7 +17,7 @@ age[6] = 12;
 age[7] = 116;
 age[8] = 10;
 age[9] = 17;
-age[10] = 20;
+
 
    System.out.println("array pos 0: " + age[0]);
    System.out.println("array pos 1 : " + age[1]);
@@ -30,7 +29,6 @@ age[10] = 20;
    System.out.println("array pos 7 : " + age[7]);
    System.out.println("array pos 8 : " + age[8]);
    System.out.println("array pos 9 : " + age[9]);
-   System.out.println("array pos 10 : " + age[10]);
     }
 }
 

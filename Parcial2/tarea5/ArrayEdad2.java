@@ -1,3 +1,4 @@
+package Parcial2.tarea5;
 public class ArrayEdad2 {
 
     class Main {
