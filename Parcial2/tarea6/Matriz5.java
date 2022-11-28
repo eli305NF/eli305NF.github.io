@@ -1,4 +1,4 @@
-package Parcial2.tarea5.tarea6;
+package Parcial2.tarea6;
 //Programa 5
 public class Matriz5 {
 

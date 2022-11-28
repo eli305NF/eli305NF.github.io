@@ -1,18 +1,16 @@
-package Parcial2.tarea5.tarea6;
-//Programa 2
+package Parcial2.tarea6;
+//Programa 3
 import java.util.Scanner;
-
-public class Escalar {
+public class Matriz3 {
     public static void main(String args[]) {
         int[][] A = {
-            {2, 0, 1},
-            {3, 0, 0},
-            {5, 1, 1}
+            {2, 2,},
+            {2, 2,}
+        
         };
         int[][] B = {
-            {0, 0, 0},
-            {0, 0, 0},
-            {0, 0, 0}
+            {1, 1},
+            {1, 1}
         };
 
         Scanner reader = new Scanner(System.in);
@@ -32,6 +30,5 @@ public class Escalar {
         }
         System.out.println("");
     }
-    
 }
 }   
