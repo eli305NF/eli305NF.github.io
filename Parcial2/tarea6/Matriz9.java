@@ -11,8 +11,10 @@ public class Matriz9 {
             {0, 0, 0, 0},
         };
         System.out.println("Matriz Identidad: ");
-        
+        // se agrega for para dar las condiciones 
         for (int i = 0; i < a.length; ++i){
+            // los numeros impresos por la condicion seran 1 o dependiente de la variable 
+        
             a[i][i] = 1;
         }
 

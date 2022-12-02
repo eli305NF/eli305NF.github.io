@@ -1,6 +1,6 @@
 package Parcial2.tarea6;
 //Programa 5
-public class Matriz5 {
+public class Prueva{
 
     public static void main(String[]args){
     // se agrega la matriz 
