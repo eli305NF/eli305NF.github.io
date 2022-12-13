@@ -1,7 +1,7 @@
 package Parcial2.tarea5;
 public class ArrayEdad2 {
 
-    class Main {
+    
         public static void main(String[] arg) {
     // create an array 
     int[] age = {12, 4 ,5 ,2, 5, 18, 32, 11, 18, 39};
@@ -19,4 +19,4 @@ public class ArrayEdad2 {
    System.out.println("Eleventh Element: " + age[10]);
     }
 }
-}
+

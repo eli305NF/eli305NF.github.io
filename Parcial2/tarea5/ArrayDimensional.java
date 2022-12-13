@@ -2,7 +2,7 @@ package Parcial2.tarea5;
 
 
 class MultidimensionalArray {
-    public static void main(String[] argas) {
+    public static void main(String[] args) {
         // create a 2d array 
         int[][] a = {
             {1, 2, 3},

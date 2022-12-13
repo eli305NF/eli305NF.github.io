@@ -9,18 +9,9 @@ public class Matriz5 {
             {-1, 4, 3},
             {0, 2, 5}
         };
-        System.out.println("Matriz");
-     //se agrega for que lea la matriz 
-        for (int i = 0; i < a.length; ++i) {
-            for(int j = 0; j < a[i].length; ++j) {
-                // los numeros impresos saldran con un espacio 
-                System.out.print(a[i][j]+ " " );
-            }
-             System.out.println();
-        }
-
+     
         int suma = 0;
-        // Se agrega for para dar las condiciones 
+         
         for (int i = 0; i < a.length; ++i) {
             for(int j = 0; j < a[i].length; ++j) {
                 if (i==j) {
