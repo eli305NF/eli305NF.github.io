@@ -3,7 +3,9 @@ package Examen;
 //las inicialize con 0, e imprimir todos elementos 	que se encuentren por debajo de la diagonal principal, 
 //así como la suma de todos esos elementos.
 public class EliudMixcohuaProg10 {
+    
     public static void main(String args[]){
+        System.out.println("Nombre:Eliud Daniel, Matricula:Matrcula:S22022255");
     
 int a[][] = {
     {0, 0, 0, 0, 0, 0, 0, 0},
