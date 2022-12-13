@@ -11,7 +11,7 @@ public class Matriz9 {
             {0, 0, 0, 0},
         };
         System.out.println("Matriz Identidad: ");
-        // se agrega for para dar las condiciones 
+        // se agrega for para dar las condiciones para saber donde poner las numeros 
         for (int i = 0; i < a.length; ++i){
             // los numeros impresos por la condicion seran 1 o dependiente de la variable 
         

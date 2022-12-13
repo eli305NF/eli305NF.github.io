@@ -20,11 +20,14 @@ public class Escalar {
             int escalar = 2;
             System.out.println("Escalar : ");
             escalar = reader.nextInt();
-        // se ocupa for para 
+        // se ocupa for para dar las condiciones 
         for (int i =0;i < A.length; i++) {
         for(int j = 0; j < A [i].length; j++) {
         // aqui se multiplica la matriz con escalar(VARIANTE)
             B[i][j]= A[i][j] * escalar; 
+            // i renglones 
+
+            //j colupnas 
         }
         }
         }

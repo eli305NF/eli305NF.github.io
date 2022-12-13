@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Matriz10 {
     public static void main (String[]args){
-      
+      // ingresar la matriz 
             int a [][]={
                 {0, 0, 0, 0},
                 {0, 0, 0, 0},
@@ -13,7 +13,7 @@ public class Matriz10 {
             };
 
             System.out.println("Matriz escalar capturada:");
-
+          
             try (Scanner num = new Scanner(System.in)) {
                 System.out.print("Ingrese un valor: ");
                 int n=num.nextInt();
